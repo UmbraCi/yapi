@@ -1,0 +1,37 @@
+[ 2022/5/27 下午3:30:52 ] [ log ] mongodb load success...
+[ 2022/5/27 下午3:38:48 ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2022/5/27 下午3:38:51 ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3000/
+[ 2022/5/27 下午3:38:51 ] [ log ] mongodb load success...
+[ 2022/5/27 15:43:29 ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2022/5/27 15:43:29 ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3000/
+[ 2022/5/27 15:43:30 ] [ log ] mongodb load success...
+[ 2022/5/27 16:08:41 ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2022/5/27 16:08:44 ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3000/
+[ 2022/5/27 16:08:45 ] [ log ] mongodb load success...
+[ 2022/5/27 17:22:32 ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2022/5/27 17:22:35 ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3000/
+[ 2022/5/27 17:22:35 ] [ log ] mongodb load success...
+[ 2022/5/27 17:41:53 ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2022/5/27 17:41:56 ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3000/
+[ 2022/5/27 17:41:56 ] [ error ] MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017, mongodb Authentication failed
+[ 2022/5/27 17:41:56 ] [ log ] mongodb load success...
+[ 2022/5/27 17:44:11 ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2022/5/27 17:44:12 ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3000/
+[ 2022/5/27 17:44:12 ] [ error ] MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017, mongodb Authentication failed
+[ 2022/5/27 17:44:12 ] [ log ] mongodb load success...
+[ 2022/5/27 17:45:50 ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2022/5/27 17:45:50 ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3000/
+[ 2022/5/27 17:45:51 ] [ log ] mongodb load success...
+[ 2022/5/27 17:52:20 ] [ error ] send mail umbraci@qq.com error,Invalid login: 535 Login Fail. Please enter your authorization code to login. More information in http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256
+[ 2022/5/31 15:53:44 ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2022/5/31 15:53:51 ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3000/
+[ 2022/5/31 15:53:51 ] [ log ] mongodb load success...
+[ 2022/5/31 16:02:51 ] [ error ] send mail  error,Invalid login: 535 Login Fail. Please enter your authorization code to login. More information in http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256
